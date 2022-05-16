@@ -64,3 +64,51 @@ h2{
 .textoFooter{
     color:#FFF;
 }
+
+/* STYLE PROMOCIONES */
+
+.divPromocion{
+    padding:10px;
+}
+.pc1{
+    width:30%;
+    float: left;
+    text-align: center;
+}
+.victus{
+    width: 392px;
+    height: 384px;
+}
+.pc2{
+    width:30%;
+    float: left;
+    text-align: center;
+}
+.clear{
+    clear: both;
+}
+
+/* STYLE CONTACTO */
+.form{
+    border: 2px solid black;
+}
+
+form  input{
+    margin :14px;
+}
+input{
+    font-size:28px;
+}
+.msj{
+    padding-bottom: 80px;
+}
+button{
+    margin:20px;
+    font-size:28px;
+}
+
+/* STYLE UBICACION */
+
+.ubi{
+   text-align:center;
+}
