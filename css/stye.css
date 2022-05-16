@@ -1,0 +1,66 @@
+body{
+    margin: 0;
+}
+.divLogo{
+    background-color: #B0C80B;
+}
+.logo{
+    width: 25%;
+    padding: 16px; 
+}
+.menu{
+    /*float: right;*/
+    text-align: right;
+}
+.menu > li{
+    display: inline-block;
+    height: 20px;
+    vertical-align: middle;
+    margin: 8px;
+}
+.divMenu{
+    background-color: #424242;
+}
+.enlaceBoton{
+    color: #FFF;
+    text-decoration: none; 
+}
+.enlaceBoton:hover{
+    color:#B0C80B;
+}
+.imgPrincipal{
+    display: inline-block;
+    width: 100%;
+}
+.divPrincipal{
+    text-align: center;
+    border-bottom: 10px solid #b0c80b;
+}
+.textoPrincipal{
+    display: inline-block;
+    width: 28%;
+    vertical-align: top;
+    font-family: system-ui;
+    font-size: 30px;
+    padding: 10px;
+    text-align: center;
+}
+.tdProductos{
+    width: 20%;
+}
+.imgProductos{
+    width: 100%;
+}
+td{
+    border-bottom: 2px solid #b0c80b;
+}
+footer{
+    background-color: #424242;;
+    padding: 16px;
+}
+h2{
+    color: #b0c80b;
+}
+.textoFooter{
+    color:#FFF;
+}
